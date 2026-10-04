@@ -2,12 +2,12 @@
 
 An interactive Tableau dashboard designed to analyze borrower risk profiles, default patterns, and financial exposure across various loan categories.
 
-🔗 *[Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/duaa.jaafar/viz/CreditRiskDashboard_17911284936460/Dashboard1)*
+🔗[Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/duaa.jaafar/viz/CreditRiskDashboard_17911284936460/Dashboard1)*
 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
