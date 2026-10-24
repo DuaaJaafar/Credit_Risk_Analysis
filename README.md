@@ -9,7 +9,7 @@ An interactive Tableau dashboard designed to analyze borrower risk profiles, def
 ## 🖼️ Dashboard Preview
 
 
-https://github.com/user-attachments/assets/fe4f7aec-1fde-43df-ba5a-10d13b8c39bd
+<img width="1376" height="743" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/c10234a5-4813-447a-98f4-8a70832c3b45" />
 
 
 ---
